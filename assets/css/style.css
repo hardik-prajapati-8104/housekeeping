@@ -4904,8 +4904,8 @@ body {
   min-height: 100vh;
   margin: 0 auto;
   color: rgba(var(--title-color), 1);
-  background-color: rgba(var(--white), 1);
-  box-shadow: 0px 1px 3px 4px rgba(var(--dark-bg), 0.06);
+  /* background-color: rgba(var(--white), 1); */
+  /* box-shadow: 0px 1px 3px 4px rgba(var(--dark-bg), 0.06); */
 }
 body.lato-font {
   font-family: "Lato", serif;
